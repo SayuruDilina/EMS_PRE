@@ -1,0 +1,28 @@
+#nav-bar {
+    background: linear-gradient(to right, rgba(15, 54, 52, 0.9) 0%);
+}
+#logo-text{
+    font-family: 'Roboto', sans-serif; 
+    font-size:1.5rem; 
+
+}
+#logo-text::first-letter{
+    font-family: 'Sonsie One', cursive;
+    font-size: 2rem;
+}
+#navbar-cta ul {
+    font-family: 'Roboto', sans-serif;
+    padding-left: 600px; 
+}
+
+#navbar-cta li {
+    font-family: 'Roboto', sans-serif;
+    margin-right: 20px; 
+}
+#get-started-btn{
+    font-family:'Roboto', sans-serif;
+    background:  linear-gradient(to right, rgba(200, 250, 245, 0.2) 0%, rgba(235, 255, 252, 0.3) 100%);
+    border-radius: 20px;
+
+}
+
